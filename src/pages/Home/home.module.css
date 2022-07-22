@@ -1,0 +1,16 @@
+.main{
+    background-color: var(--dark-theme-shade-80);
+    margin: 1rem 0;
+  }
+  
+  .image__container {
+    height: 35rem;
+    margin: 10px;
+  }
+  
+  .categories__container {
+    width: 95%;
+    margin: 1.5rem auto;
+    display: flex;
+    align-items: center;
+  }
